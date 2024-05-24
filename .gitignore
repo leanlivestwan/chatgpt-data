@@ -1,0 +1,6 @@
+# 项目排除路径
+/chatgpt-data-app/target/
+/chatgpt-data-domain/target/
+/chatgpt-data-infrastructure/target/
+/chatgpt-data-trigger/target/
+/chatgpt-data-types/target/
